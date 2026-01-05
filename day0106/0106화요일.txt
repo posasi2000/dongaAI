@@ -1,0 +1,55 @@
+
+ https://github.com/posasi2000/dongaAI  
+
+//1번째 image-fx
+https://labs.google/fx/ko/tools/image-fx
+
+//2번째
+https://runwayml.com/
+
+//3번째 mixboard
+https://mixboard.google.com
+
+//4번째 stitch
+https://stitch.withgoogle.com/
+
+//5번째 생성형 AI로 자동 프리젠테이션 만들기(아래 실습1, 실습2 참고하세요)
+https://www.canva.com/ko_kr/
+https://gamma.app
+https://gamma.app
+주제입력을 “AI 리터러시의 개념과 세대별 인공지능 발전 흐름을 요약한 발표자료를 만들어줘.” 
+
+//6번째 firebase 유료화정책(강사쌤껏 참조만 하세요)
+https://studio.firebase.google.com/
+https://firebase.studio/
+
+//7번째 aistudio 유료화정책(강사쌤껏 참조만 하세요)
+https://aistudio.google.com/
+
+
+실습1]
+#실습1 AI 기반 생활불편 개선 웹서비스 기획
+ 일상생활에서 경험하는 불편함을 분석하고, 이를 AI 및 웹서비스 기술을 활용하여 개선할 수 있는 솔루션을 기획하는 것을 목표로 한다. 
+실제 문제 상황을 스스로 정의하고, 서비스 목적·기능·AI 적용 가능성을 체계적으로 문서화함으로써 문제 해결 능력과 서비스 설계 능력을 함께 기를 수 있다. 
+작성 방식은 Canva 또는 Gamma를 활용하여 3~5장 규모의 발표 자료(PPT)를 제작하는 연습
+
+
+실습2]
+#실습2 AI 활용 체험 – 내 생활을 편하게 만들어보기
+AI가 실제 생활이나 업무에서 어떤 일을 대신 도와줄 수 있는지 직접 경험해 보는 활동
+*평소 귀찮거나 반복되는 일 하나 골라보기*
+- 이메일 답장 쓰기
+- 회의록 정리
+- 블로그 글 초안 만들기
+- 음식 레시피 찾기
+- 오늘 일정 정리
+- 읽기 어려운 기사 요약
+
+
+
+
+
+
+
+
+
